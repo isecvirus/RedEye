@@ -4,9 +4,9 @@ A gui (graphical user interface) keylogger with a server (hacker side) and the (
 
 
 # New target?
-- <Menu>
-  - New
-    - target
+- New
+  - target
+    - Output a new target code (COMPILE AND LAUNCH (;).
 
 # Lag?
 - Edit
